@@ -68,5 +68,5 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: build
-          path: build
+          name: pokeemerald.gba
+          path: pokeemerald.gba
